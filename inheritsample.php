@@ -29,4 +29,5 @@ class order extends customer
 $order_obj = new order("2");
 $order_obj->getOrder("101");
 echo "test";
+echo "test 2"
 ?>
